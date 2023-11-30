@@ -1,4 +1,4 @@
-#Factor-GARCH Model
+# Factor-GARCH Model
 
 This project seeks to present a concise framework for estimating conditional covariance matrices within high-dimensional contexts.
 
